@@ -1,0 +1,1 @@
+!function(n,i){var t=n(document.body);i.list=function(n){!function(n){var o="";n.forEach(function(n,i){o+='<li><a href="#">'+n.song+" - "+n.singer+"</a></li>"}),t.find("ul").html(o)}(n)}}(window.Zepto,window.player||{});

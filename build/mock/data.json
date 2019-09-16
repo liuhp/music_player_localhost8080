@@ -1,0 +1,98 @@
+[
+    {
+        "image": "/source/song_1.jpg",
+        "audio":"/source/song_1.mp3",
+        "song":"那些你很冒险的梦",
+        "album":"学不会",
+        "singer":"林俊杰",
+        "duration":245,
+        "isLike":true
+    },
+    {
+        "image": "/source/song_2.jpg",
+        "audio":"/source/song_2.mp3",
+        "song":"小半",
+        "album":"小梦大半",
+        "singer":"陈粒",
+        "duration":297,
+        "isLike":false
+    },
+    {
+        "image": "/source/song_3.jpg",
+        "audio":"/source/song_3.mp3",
+        "song":"Shape of you",
+        "album":"÷",
+        "singer":"ed sheeran",
+        "duration":235,
+        "isLike":false
+    },
+    {
+        "image": "/source/song_4.jpg",
+        "audio":"/source/song_4.mp3",
+        "song":"丑八怪",
+        "album":"意外",
+        "singer":"薛之谦",
+        "duration":253,
+        "isLike":false
+    },
+    {
+        "image": "/source/song_5.jpg",
+        "audio":"/source/song_5.mp3",
+        "song":"Shutterbug",
+        "album":"Shutterbug",
+        "singer":"Glenna",
+        "duration":198,
+        "isLike":true
+    },
+    {
+        "image": "/source/song_6.jpg",
+        "audio":"/source/song_6.mp3",
+        "song":"期待爱",
+        "album":"JJ陆",
+        "singer":"林俊杰/金莎",
+        "duration":234,
+        "isLike":true
+    },
+    {
+        "image": "/source/song_7.jpg",
+        "audio":"/source/song_7.mp3",
+        "song":"Send It",
+        "album":"Send It",
+        "singer":"Austin Mahone / Rich Homie Quan",
+        "duration":181,
+        "isLike":true
+    },
+    {
+        "image": "/source/song_8.jpg",
+        "audio":"/source/song_8.mp3",
+        "song":"Pretty Girl",
+        "album":" Pretty Girl",
+        "singer":"Cheat Codes ",
+        "duration":193,
+        "isLike":true
+    },
+    {
+        "image": "/source/song_9.jpg",
+        "audio":"/source/song_9.mp3",
+        "song":"Marry You",
+        "album":"doo-wops & hooligans",
+        "singer":"bruno mars",
+        "duration":230,
+        "isLike":false
+    },
+    {
+        "image": "/source/song_10.jpg",
+        "audio":"/source/song_10.mp3",
+        "song":"Too Far",
+        "album":"King in the Mirror",
+        "singer":"Anna F",
+        "duration":240,
+        "isLike":false
+    }
+
+
+
+
+
+
+]
